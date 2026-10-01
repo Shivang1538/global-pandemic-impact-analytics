@@ -139,10 +139,6 @@ COVID-19 reporting changed over time and differed substantially between countrie
 
 The analysis uses public datasets from the Johns Hopkins University Center for Systems Science and Engineering COVID-19 repository and the World Bank Open Data API. The project code is original to this repository, while the underlying datasets remain owned and licensed by their respective providers.
 
-## Resume-ready description
-
-> **Global Pandemic Impact Analytics | Python, Pandas, NumPy, SciPy**  
-> Built a reproducible analytics pipeline to clean, transform and analyse global COVID-19 time-series data; engineered country and continent KPIs, mortality and growth metrics, enriched outcomes with World Bank socioeconomic indicators, and produced Power BI/Excel-ready datasets and statistical visualisations.
 
 ## Author
 
